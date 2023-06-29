@@ -1,3 +1,7 @@
+![image](https://github.com/vikastripathi707/Brand-Page-by-React/assets/86002620/4d04ad1e-376b-4ac5-8edf-0fdd48b31b71)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
