@@ -1,4 +1,14 @@
+# Desktop View
+
 ![image](https://github.com/vikastripathi707/Brand-Page-by-React/assets/86002620/4d04ad1e-376b-4ac5-8edf-0fdd48b31b71)
+
+# Mobile View
+
+![image](https://github.com/vikastripathi707/Brand-Page-by-React/assets/86002620/e5ff9dd7-97f6-46f7-8cea-ecaeae6c8599)
+
+![image](https://github.com/vikastripathi707/Brand-Page-by-React/assets/86002620/b77db6aa-d690-478a-96e0-180f7594e005)
+
+
 
 
 
